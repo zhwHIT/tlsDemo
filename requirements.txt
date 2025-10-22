@@ -1,3 +1,4 @@
+sseclient-py
 numpy
 openai==2.6.0
 openpyxl==3.1.2
@@ -8,4 +9,5 @@ sseclient==0.0.27
 sseclient_py==1.8.0
 streamlit==1.40.1
 tqdm==4.66.1
+
 
